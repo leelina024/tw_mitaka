@@ -22,4 +22,6 @@ Query hashtags/words: \
 Query will be filtered by english langauge only. \
 Since I can only pull 500,000 tweets per month, I'll try to split it evenly amongst the hashtags and words queried. 
 
+The Twitter API has its own sentiment analysis, but I wanted to do a simple one myself. 
+
 ![Mitaka Asa](https://staticg.sportskeeda.com/editor/2022/07/01b14-16577308777467-1920.jpg "Mitaka Asa")

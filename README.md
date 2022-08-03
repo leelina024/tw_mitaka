@@ -14,10 +14,10 @@ From [Chainsaw Man wikipedia](https://en.wikipedia.org/wiki/Chainsaw_Man "Chains
 >The second part began serialization on July 13, 2022.
 
 Query hashtags/words: 
-`#mitaka`
-`#asamitaka` `asa mitaka`
-`#mitakaasa` `mitaka asa`
-`#wardevil` `war devil`
+`#mitaka` `mitaka`\
+`#asamitaka` `asa mitaka`\
+`#mitakaasa` `mitaka asa`\
+`#wardevil` `war devil`\
 
 Query will be filtered by english langauge only. \
 Since I can only pull 500,000 tweets per month, I'll try to split it evenly amongst the hashtags and words queried. 

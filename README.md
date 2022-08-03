@@ -3,7 +3,7 @@
 ***MIGHT CONTAIN SPOILERS TO CHAINSAW MAN MANGA***
 
 ------------
-**Topic**: Chainsaw Man Manga
+**Topic**: Chainsaw Man Manga \
 **Focus**: There is a new character introduced with the release of Chainsaw Man Part 2 Manga. Her name is Asa Mitaka. Goal is to figure out how the Twitter community feels about her.
 
 From [Chainsaw Man wikipedia](https://en.wikipedia.org/wiki/Chainsaw_Man "Chainsaw Man wikipedia") article:

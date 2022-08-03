@@ -15,10 +15,9 @@ From [Chainsaw Man wikipedia](https://en.wikipedia.org/wiki/Chainsaw_Man "Chains
 
 Query hashtags/words: 
 `#mitaka`
-`#asamitaka`
-`#mitakaasa`
-`#wardevil`
-`#三鷹アサ`
+`#asamitaka` `asa mitaka`
+`#mitakaasa` `mitaka asa`
+`#wardevil` `war devil`
 
 Query will be filtered by english langauge only. \
 Since I can only pull 500,000 tweets per month, I'll try to split it evenly amongst the hashtags and words queried. 

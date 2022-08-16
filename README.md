@@ -22,6 +22,6 @@ Query hashtags/words: \
 Query will be filtered by english langauge only. \
 Since I can only pull 500,000 tweets per month, I'll try to split it evenly amongst the hashtags and words queried. 
 
-The Twitter API has its own sentiment analysis, but I wanted to do a simple one myself. 
+The Twitter API has its own sentiment analysis, but I decided to use VADER NLP processing as I read was good for social media language, and since I'm not very good at machine learning. 
 
 ![Mitaka Asa Panel 1](https://pbs.twimg.com/media/FXjxAHmXgAIYYFQ?format=jpg&name=small "Mitaka Asa Panel 1")
